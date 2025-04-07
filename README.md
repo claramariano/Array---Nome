@@ -1,2 +1,2 @@
 # Array---Nome
-ps://claramariano.github.io/Array---Nome/
+https://claramariano.github.io/Array---Nome/
